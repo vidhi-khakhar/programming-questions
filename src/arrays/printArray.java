@@ -1,6 +1,9 @@
 package arrays;
 
 public class printArray {
+    /*
+    To print the values in an array, you can use a for loop or a for-each loop.
+     */
     public static void main(String[] args) {
         int[] example1 = {2, 4, 6, 8, 10};
         println(example1);
